@@ -11,7 +11,8 @@ Graph
 Sort and Search *QuickSort待修正  
   
 ## 演算法  
-ES6  
+
+## ES6  
 Classes  
 Promises  
 Symbols  
